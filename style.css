@@ -1,0 +1,59 @@
+
+body{
+    background: #623d27;
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#principal{
+    width: 900px;
+}
+
+.foto-capa{
+    width: 900px;
+}
+
+.fotos-campanhas{
+    width: 700px;
+    border: 5px solid #623d27;
+}
+
+#menu{
+    background: aliceblue;
+    color: #ba9475;
+    padding: 18px;
+    text-align: center;
+}
+
+#conteudo{
+    background: #ba9475;
+    padding: 10px;
+}
+
+#rodape{
+    text-align: center;
+    padding: 5px;
+}
+
+#contato{
+    font-size: 18px;
+    text-align: center;
+    color: #623d27;
+}
+
+
+a{
+    text-decoration: none;
+    color: #623d27;
+    padding: 5px;
+}
+
+a:hover{
+    color: #cbad92;
+}
+
+h1{
+    font-size: 1.5em;
+    color: #623d27;
+}
